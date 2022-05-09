@@ -9,8 +9,11 @@ Time is fleeting:( There are a lot of things waiting for me to do.
 - Languages: Chinese | English
 - Active Timezone: 12:00 - 23:00 (Asia/Shanghai, UTC+8) | 4:00 - 15:00 (UTC)
 - Currently working on:
-  - K8s Ingress
-  - Apache APISIX
+  - Cloud-native
+    - K8s Ingress
+    - Apache APISIX
+  - Cross-platform mobile app
+    - flutter
 - Open-source activities:
   - OSPP 2021 tuna NFC Project Finisher
   - Apache APISIX contributor

@@ -7,6 +7,7 @@ Hi, I'm John Chever, call me Chever will be fine. Chever is the resonance of my 
 Time is fleeting:( There are a lot of things waiting for me to do.
 
 - OSPP 2021 tuna NFC Project Finisher
+- Apache APISIX contributor
 
 ## 📊 Stats
 

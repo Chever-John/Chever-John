@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Hi, I'm John Chever, call me Chever will be fine. Chever is the resonance of my Chinese name; it will sound very friendly to me.
+Hi, I'm **John Chever**, call me **Chever** will be fine. Chever is the resonance of my Chinese name; it will sound very friendly to me.
 
 Time is fleeting:( There are a lot of things waiting for me to do.
 

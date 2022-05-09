@@ -2,6 +2,10 @@
 
 ## Hi there 👋
 
+Hi, I'm John Chever, call me Chever will be fine. Chever is the resonance of my Chinese name; it will sound very friendly to me.
+
+I'm an open-source enthusiast with a small, simple open-source project, RuoYi-Vue-PostgreSQL, and I'm looking forward to changing the world with code.
+
 ## 📊 Stats
 
 ![profile-3d-contrib](./profile-3d-contrib/profile-gitblock.svg)

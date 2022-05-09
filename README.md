@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-![profile-3d-contrib](./profile-3d-contrib/profile-green-animate.svg)
+## 📊 Stats
+
+![profile-3d-contrib](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **Chever-John/Chever-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

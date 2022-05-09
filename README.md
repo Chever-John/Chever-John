@@ -6,8 +6,10 @@ Hi, I'm **John Chever**, call me **Chever** will be fine. Chever is the resonanc
 
 Time is fleeting:( There are a lot of things waiting for me to do.
 
-- OSPP 2021 tuna NFC Project Finisher
-- Apache APISIX contributor
+- Active Timezone: 12:00 - 23:00 (Asia/Shanghai, UTC+8) | 4:00 - 15:00 (UTC)
+- Open-source activities:
+  - OSPP 2021 tuna NFC Project Finisher
+  - Apache APISIX contributor
 
 ## 📊 Stats
 

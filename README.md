@@ -18,9 +18,9 @@ Time is fleeting:( There are a lot of things waiting for me to do.
   - OSPP 2021 tuna NFC Project Finisher
   - Apache APISIX contributor
 
-## 📊 Stats
+<!-- ## 📊 Stats
 
-![profile-3d-contrib](./profile-3d-contrib/profile-gitblock.svg)
+![profile-3d-contrib](./profile-3d-contrib/profile-gitblock.svg) -->
 
 <!--
 **Chever-John/Chever-John** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

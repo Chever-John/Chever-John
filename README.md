@@ -14,9 +14,7 @@ Time is fleeting:( There are a lot of things waiting for me to do.
     - Apache APISIX
   - Cross-platform mobile app
     - flutter
-- Open-source activities:
-  - OSPP 2021 tuna NFC Project Finisher
-  - Apache APISIX contributor
+
 
 <!-- ## 📊 Stats
 

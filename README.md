@@ -12,9 +12,16 @@ Time is fleeting:( There are a lot of things waiting for me to do.
   - Cloud-native
     - K8s Ingress
     - Apache APISIX
-  - Cross-platform mobile app
-    - flutter
+  - Gateway
+    - Envoy Gateway
 
+## TODO
+
+Issues focus:
+
+- [ ] [Set timeout for streaming rpc linked to a GRPCRoute](https://github.com/envoyproxy/gateway/issues/5446)
+
+- [ ] [Support LKG Failure Mode](https://github.com/envoyproxy/gateway/issues/5468)
 
 <!-- ## 📊 Stats
 
@@ -25,7 +32,6 @@ Time is fleeting:( There are a lot of things waiting for me to do.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on API7.ai
 - 🌱 I’m currently learning OS/NetWork
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
